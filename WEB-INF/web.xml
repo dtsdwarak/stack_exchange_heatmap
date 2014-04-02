@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+	   <servlet-name>technologymap</servlet-name>
+	   <servlet-class>dbget</servlet-class>
+	</servlet>
+	<servlet-mapping>
+	   <servlet-name>technologymap</servlet-name>
+	   <url-pattern>/view_technology</url-pattern>
+	</servlet-mapping>
+</web-app>
