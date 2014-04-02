@@ -25,11 +25,12 @@ $ mysql -u <username> -p<password> stack_exchange < stack_exchange.sql
 Screenshots
 -----------
 
-** Home screen **
-[!Home](images/screen.png)
-** App View **
-[!Screen1](images/screen1.png)
-** App View **
-[!Screen2](images/screen1.png)
+**Home screen**
+![Home](images/screen.png)
+**App View**
+![Screen1](images/screen1.png)
+**Another App View**
+![Screen2](images/screen1.png)
 
+* * *
 Made at [Indix's DataMonster]("http://datamonster.in") Hackathon by [Sai Pranav]( "https://github.com/saipranav"), [Harini]("http://harinivc.in") and [I]("http://www.dwarak.in")
