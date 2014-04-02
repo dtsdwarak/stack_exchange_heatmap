@@ -33,4 +33,4 @@ Screenshots
 ![Screen2](images/screen1.png)
 
 * * *
-Made at [Indix's DataMonster]("http://datamonster.in") Hackathon by [Sai Pranav]( "https://github.com/saipranav"), [Harini]("http://harinivc.in") and [I]("http://www.dwarak.in")
+Made at [Indix's DataMonster](http://datamonster.in) Hackathon by [Sai Pranav](https://github.com/saipranav), [Harini](http://harinivc.in) and [I](http://www.dwarak.in)
